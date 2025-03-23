@@ -1,4 +1,4 @@
-Data,Hora,Temperatura (°C),Consumo de Energia (kWh),Dia da Semana,Fim de Semana,Estação do Ano,Condição Climática
+Data,Hora,Temperatura_(°C),Consumo_de_Energia_(kWh),Dia_da_Semana,Fim_de_Semana,Estação_do_Ano,Condição_Climática
 2024-01-01,08:00,31.2,15.5,Segunda,Não,Verão,Ensolarado
 2024-01-01,12:00,33.8,22.1,Segunda,Não,Verão,Ensolarado
 2024-01-01,18:00,30.5,18.7,Segunda,Não,Verão,Ensolarado
