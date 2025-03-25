@@ -1,4 +1,4 @@
-Dias,Data,Tipo de Planta,Quantidade de Luz horas dia,Altura da Planta cm,Condição Ambiental Umidade,Condição Ambiental Temperatura C
+Dias,Data,Tipo de Planta,Quantidade_de_Luz_em_horas_por_dia,Altura_da_Planta_cm,Condição_Ambiental_Umidade,Condição_Ambiental_Temperatura_C
 1,2025-03-22,Alface,2,0.5,75,22
 2,2025-03-23,Alface,2,0.8,78,21
 3,2025-03-24,Alface,2,1.1,76,23
